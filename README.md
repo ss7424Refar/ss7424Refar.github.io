@@ -4,7 +4,7 @@
 
 # 其他
 
-> /_includes/head.html 加入 {% SEO %}
+> /_includes/head.html 加入 {% SEO %}会报错, 不知道为啥
 
 > 本地调试
 
