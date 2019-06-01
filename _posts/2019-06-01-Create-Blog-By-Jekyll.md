@@ -3,7 +3,7 @@ title: 使用Jekyll来打造自己的个人博客
 published: true
 ---
 
-`Jekyll` `GitPage`.
+`Jekyll` `GitPage`
 
 ## 应用
 
