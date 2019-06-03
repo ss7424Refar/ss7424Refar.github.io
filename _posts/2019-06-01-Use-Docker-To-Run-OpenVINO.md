@@ -58,7 +58,7 @@ published: true
 
    效果如下
 
-   ![demo_security_barrier_camera.sh ](../Resource/img/2019-06-01-Use-Docker-To-Run-OpenVINO/car.png)
+   ![demo_security_barrier_camera.sh](../Resource/img/2019-06-01-Use-Docker-To-Run-OpenVINO/car.png)
 
 
 
