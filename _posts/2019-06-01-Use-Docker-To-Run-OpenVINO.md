@@ -88,7 +88,7 @@ published: true
    ./interactive_face_detection_demo -i face-detection-adas-0001.png -m /opt/intel/computer_vision_sdk_2018.4.420/deployment_tools/intel_models/face-detection-adas-0001/FP32/face-detection-adas-0001.xml -d CPU
    ```
 
-   `face-detection-adas-0001.png`已经从`/opt/intel/computer_vision_sdk_2018.4.420/deployment_tools/intel_models/face-detection-adas-0001/description`拷贝到了`~/inference_engine_samples_build/intel64/Release下
+   `face-detection-adas-0001.png`已经从`/opt/intel/computer_vision_sdk_2018.4.420/deployment_tools/intel_models/face-detection-adas-0001/description`拷贝到了`~/inference_engine_samples_build/intel64/Release`下
 
 4. 效果
 
